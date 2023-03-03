@@ -177,5 +177,15 @@ Xlable(), Ylable()函数
 
 
 
+参考文献：
+
+[1] [Rafael C. Gonzalez, Richard E. Woods, and Steven L. Eddins. 2003. Digital Image Processing Using MATLAB. Prentice-Hall, Inc., USA.](https://github.com/timerring/digital-image-processing-matlab/blob/main/reference/Digital_Image_Processing_Using_Matlab.pdf)
+
+[2] [阮秋琦. 数字图像处理（MATLAB版）\[M\]. 北京：电子工业出版社, 2014.](https://github.com/timerring/digital-image-processing-matlab/blob/main/reference/Digital_Image_Processing_(MATLAB_version).pdf)
+
+[3] [冈萨雷斯. 数字图像处理（第三版）\[M\]. 北京：电子工业出版社, 2011.](https://github.com/timerring/digital-image-processing-matlab/blob/main/reference/Digital_Image_Processing_(Third_Edition).pdf)
+
+
+
 [返回首页](https://github.com/timerring/digital-image-processing-matlab)
 
