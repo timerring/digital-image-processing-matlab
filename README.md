@@ -1,4 +1,5 @@
 # digital-image-processing-matlab
+
 Matlab function basics and introductory tutorials for digital image processing.
 
 ### Content
@@ -10,19 +11,16 @@ Matlab function basics and introductory tutorials for digital image processing.
 | [图像的傅立叶变换](https://github.com/timerring/digital-image-processing-matlab/blob/main/03_fourier_transform_of_an_image.md) | [利用MATLAB 实现数字图像的傅立叶变换](https://github.com/timerring/digital-image-processing-matlab/blob/main/03_fourier_transform_of_an_image.md#利用matlab-实现数字图像的傅立叶变换)  \|  [空域滤波与频域滤波](https://github.com/timerring/digital-image-processing-matlab/blob/main/03_fourier_transform_of_an_image.md#空域滤波与频域滤波) |
 | [图像的滤波与图像增强](https://github.com/timerring/digital-image-processing-matlab/blob/main/04_image_filtering_and_image_enhancement.md) | [用滤波器祛除图象噪声](https://github.com/timerring/digital-image-processing-matlab/blob/main/04_image_filtering_and_image_enhancement.md#a-用滤波器祛除图象噪声)  \|  [空间噪声滤波器](https://github.com/timerring/digital-image-processing-matlab/blob/main/04_image_filtering_and_image_enhancement.md#b-空间噪声滤波器)  \|  [用滤波器祛除图象噪声](https://github.com/timerring/digital-image-processing-matlab/blob/main/04_image_filtering_and_image_enhancement.md#c用滤波器祛除图象噪声) |
 | [Matlab实现彩色图像的转换、平滑、锐化与分割](https://github.com/timerring/digital-image-processing-matlab/blob/main/05_conversion_smoothing_sharpening_and_segmentation_of_color_images.md) | [使用 RGB、索引和灰度级图像间转换的函数](https://github.com/timerring/digital-image-processing-matlab/blob/main/05_conversion_smoothing_sharpening_and_segmentation_of_color_images.md#1使用-rgb索引和灰度级图像间转换的函数)  \|  [彩色图像平滑的MATLAB 仿真](https://github.com/timerring/digital-image-processing-matlab/blob/main/05_conversion_smoothing_sharpening_and_segmentation_of_color_images.md#2掌握彩色图像平滑的matlab-仿真)  \|  [彩色图像锐化](https://github.com/timerring/digital-image-processing-matlab/blob/main/05_conversion_smoothing_sharpening_and_segmentation_of_color_images.md#3彩色图像锐化)  \|  [RGB 彩色图像分割](https://github.com/timerring/digital-image-processing-matlab/blob/main/05_conversion_smoothing_sharpening_and_segmentation_of_color_images.md#4rgb-彩色图像分割) |
-|                                                              |                                                              |
-
-
-
-
+| [Matlab实现小波变换](https://github.com/timerring/digital-image-processing-matlab/blob/main/06_matlab_implements_wavelet_transform.md) | [Haar、尺度和小波函数](https://github.com/timerring/digital-image-processing-matlab/blob/main/06_matlab_implements_wavelet_transform.md#haar尺度和小波函数)  \|  [使用haar 滤波器的一个简单FWT](https://github.com/timerring/digital-image-processing-matlab/blob/main/06_matlab_implements_wavelet_transform.md#使用haar-滤波器的一个简单fwt)  \|  [比较函数wavefast 和函数wavedec2 的执行时间](https://github.com/timerring/digital-image-processing-matlab/blob/main/06_matlab_implements_wavelet_transform.md#比较函数wavefast-和函数wavedec2-的执行时间)  \|  [小波的方向性和边缘检测](https://github.com/timerring/digital-image-processing-matlab/blob/main/06_matlab_implements_wavelet_transform.md#小波的方向性和边缘检测) |
+| [Matlab实现图像压缩](https://github.com/timerring/digital-image-processing-matlab/blob/main/07_matlab_implements_image_compression.md) | [图像压缩原理](https://github.com/timerring/digital-image-processing-matlab/blob/main/07_matlab_implements_image_compression.md#图像压缩原理)  \|  [离散余弦变换(DCT)图像压缩原理](https://github.com/timerring/digital-image-processing-matlab/blob/main/07_matlab_implements_image_compression.md#离散余弦变换dct图像压缩原理)  \|  [行程编码（RLE）原理](https://github.com/timerring/digital-image-processing-matlab/blob/main/07_matlab_implements_image_compression.md#行程编码rle原理)  \|  [MATLAB 中的变长码映射](https://github.com/timerring/digital-image-processing-matlab/blob/main/07_matlab_implements_image_compression.md#matlab-中的变长码映射)  \|  [离散余弦变换（DCT）图像压缩](https://github.com/timerring/digital-image-processing-matlab/blob/main/07_matlab_implements_image_compression.md#离散余弦变换dct图像压缩)  \|  [利用离散余弦变换进行JPEG 图像压缩](https://github.com/timerring/digital-image-processing-matlab/blob/main/07_matlab_implements_image_compression.md#利用离散余弦变换进行jpeg-图像压缩) |
+| [Matlab实现形态学图像处理](https://github.com/timerring/digital-image-processing-matlab/blob/main/08_realization_of_morphological_image_processing_in_matlab.md) | [膨胀的简单应用](https://github.com/timerring/digital-image-processing-matlab/blob/main/08_realization_of_morphological_image_processing_in_matlab.md#膨胀的简单应用)  \|  [函数imopen 和imclose 的应用](https://github.com/timerring/digital-image-processing-matlab/blob/main/08_realization_of_morphological_image_processing_in_matlab.md#函数imopen-和imclose-的应用)  \|  [灰度图像形态学开运算和闭运算](https://github.com/timerring/digital-image-processing-matlab/blob/main/08_realization_of_morphological_image_processing_in_matlab.md#灰度图像形态学开运算和闭运算)  \|  [灰度图像形态学使用重构删除复杂图像的背景](https://github.com/timerring/digital-image-processing-matlab/blob/main/08_realization_of_morphological_image_processing_in_matlab.md#灰度图像形态学使用重构删除复杂图像的背景) |
+| [Matlab实现图像分割](https://github.com/timerring/digital-image-processing-matlab/blob/main/09_matlab_implements_image_segmentation.md) | [线检测](https://github.com/timerring/digital-image-processing-matlab/blob/main/09_matlab_implements_image_segmentation.md#线检测)  \|  [边缘检测](https://github.com/timerring/digital-image-processing-matlab/blob/main/09_matlab_implements_image_segmentation.md#边缘检测)  \|  [使用梯度的分水岭分割](https://github.com/timerring/digital-image-processing-matlab/blob/main/09_matlab_implements_image_segmentation.md#使用梯度的分水岭分割)  \|  [控制标记符的分水岭分割](https://github.com/timerring/digital-image-processing-matlab/blob/main/09_matlab_implements_image_segmentation.md#控制标记符的分水岭分割) |
 
 ### 参考书籍
 
 + [1] [Rafael C. Gonzalez, Richard E. Woods, and Steven L. Eddins. 2003. Digital Image Processing Using MATLAB. Prentice-Hall, Inc., USA.](https://github.com/timerring/digital-image-processing-matlab/blob/main/reference/Digital_Image_Processing_Using_Matlab.pdf)
 + [2] [阮秋琦.  数字图像处理（MATLAB版）[M]. 北京：电子工业出版社,  2014.](https://github.com/timerring/digital-image-processing-matlab/blob/main/reference/Digital_Image_Processing_(MATLAB_version).pdf)
 + [3] [冈萨雷斯.  数字图像处理（第三版）[M]. 北京：电子工业出版社,  2011.](https://github.com/timerring/digital-image-processing-matlab/blob/main/reference/Digital_Image_Processing_(Third_Edition).pdf)
-
-
 
 ### ChangeLog
 
@@ -35,9 +33,7 @@ Matlab function basics and introductory tutorials for digital image processing.
 <img src="resources/qrcode.jpg" width = "180" height = "180">
 </div>
 
-
 &emsp;&emsp;AIShareLab，一个关注CV、AI、区块链、Web开发、硬件开发、5G通信等领域的热“AI”分享的社群，微信搜索公众号 AIShareLab 一起交流更多相关知识，前沿算法，Paper解读，项目源码，面经总结。﻿
-
 
 ## LICENSE
 
