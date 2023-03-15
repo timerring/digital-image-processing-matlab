@@ -68,8 +68,7 @@ figure, imshow(I2)
 
 ![](https://raw.githubusercontent.com/timerring/scratchpad2023/main/2023/03/11-22-42-10-1678545727.png)
 
-相关命令： 
-zoom
+相关命令：zoom
 
 ## 56.imfeature
 
