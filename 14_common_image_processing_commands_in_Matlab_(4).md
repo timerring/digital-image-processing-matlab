@@ -17,7 +17,6 @@
   - [52.imadjust](#52imadjust)
   - [53.imapprox](#53imapprox)
 
-
 # Matlab常用图像处理命令108例（四）
 
 ## 37.fwind1
@@ -163,7 +162,9 @@ rgbmap = hsv2rgb(hsvmap)
 RGB = hsv2rgb(HSV)
 ```
 
-相关命令： rgb2hsv, rgbplot
+相关命令： 
+
+rgb2hsv, rgbplot
 
 ## 44.idct2
 
@@ -327,7 +328,5 @@ cmunique, dither, rgb2ind
 [2] [阮秋琦. 数字图像处理（MATLAB版）[M]. 北京：电子工业出版社, 2014.](https://github.com/timerring/digital-image-processing-matlab/blob/main/reference/Digital_Image_Processing_(MATLAB_version).pdf)
 
 [3] [冈萨雷斯. 数字图像处理（第三版）[M]. 北京：电子工业出版社, 2011.](https://github.com/timerring/digital-image-processing-matlab/blob/main/reference/Digital_Image_Processing_(Third_Edition).pdf)
-
-
 
 [返回首页](https://github.com/timerring/digital-image-processing-matlab)
